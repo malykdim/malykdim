@@ -5,14 +5,8 @@
 <div id="header" align="center" width="800" hight="auto">
     <img src="https://media.giphy.com/media/8UYMQ5MCmuqXu/giphy.gif" width="400"/>
 </div>
-
-<!--
 <br />
-<div id="header" align="center" width="800" hight="auto">
-    <img src="https://media.giphy.com/media/8UYMQ5MCmuqXu/giphy.gif" width="400"/>
-</div>
-<br />
--->
+<p align="center"><em>&quot;  ... have you found the bottom? &quot;</em></p>
 
 <h1>&nbsp;</h1>
 <h3 align="center">Languages and Tools:</h3>
