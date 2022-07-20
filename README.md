@@ -1,6 +1,7 @@
 <h3 align="center">Albena Kostova</h3>
 <h1 align="center">JS Web Developer</h1>
 
+<br />
 <div id="header" align="center" width="800" hight="auto">
     <img src="https://media.giphy.com/media/8UYMQ5MCmuqXu/giphy.gif" width="400"/>
 </div>
@@ -12,7 +13,8 @@
 </div>
 <br />
 -->
-<br />
+
+<h1>&nbsp;</h1>
 <h3 align="center">Languages and Tools:</h3>
 <br />
 <p align="center"> 
@@ -51,8 +53,8 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malykdim&show_icons=true&locale=en&layout=compact" alt="malykdim" />
 </p>
-<br />
 
+<h1>&nbsp;</h1>
 <br />
 <p align="center">
      &nbsp;
@@ -64,10 +66,11 @@
 <div  align="center" id="badges">
     <img src="https://komarev.com/ghpvc/?username=malykdim&style=flat-square&color=blue" alt=""/>
 </div>
+<h1>&nbsp;</h1>
 <br />
 <div  align="center">
     <h3 align="center">albena.kostov@gmail.com</h3>
-    &nbsp;<br />
+    <br />
     <a href="https://linkedin.com/in/albenakostova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albenakostova" height="30" width="40" />
     </a>
 </div>
