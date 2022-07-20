@@ -1,14 +1,9 @@
 <h3 align="center">Albena Kostova</h3>
 <h1 align="center">JS Web Developer</h1>
 
-<br />
-<div id="header" align="center" width="800" hight="auto">
-    <img src="https://media.giphy.com/media/8UYMQ5MCmuqXu/giphy.gif" width="400"/>
-</div>
-<br />
-<p align="center"><em>&quot;  ... have you found the bottom? &quot;</em></p>
-<h1>&nbsp;</h1>
+<!--
 <h3 align="center">Languages and Tools:</h3>
+-->
 <br />
 <p align="center"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -83,6 +78,13 @@
 </p>
 <h1>&nbsp;</h1>
 <br />
+    <br />
+<div id="header" align="center" width="800" hight="auto">
+    <img src="https://media.giphy.com/media/8UYMQ5MCmuqXu/giphy.gif" width="400"/>
+</div>
+<br />
+<p align="center"><em>&quot;  ... have you found the bottom? &quot;</em></p>
+<h1>&nbsp;</h1>
 <blockquote>
     <em>”You have everything needed for the extravagant journey that is your life.”</em>&nbsp; – &nbsp;<strong>Carlos Castaneda</strong>
 </blockquote>
