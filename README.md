@@ -7,7 +7,6 @@
 </div>
 <br />
 <p align="center"><em>&quot;  ... have you found the bottom? &quot;</em></p>
-
 <h1>&nbsp;</h1>
 <h3 align="center">Languages and Tools:</h3>
 <br />
@@ -71,25 +70,19 @@
     <a href="https://linkedin.com/in/albenakostova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albenakostova" height="30" width="40" />
     </a>
 </div>
+<div  align="center">
 
+<h1>&nbsp;</h1>
 
-
-
-
-
-
-
-<!--
-**malykdim/malykdim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Currently working on: </h3
+<p align="center">
+<br>
+<code>building my Portfolio</code>
+&nbsp;
+<code>learning the MERN stack</code> 
+</p>
+<h1>&nbsp;</h1>
+<br />
+<blockquote>
+    <em>”You have everything needed for the extravagant journey that is your life.”</em>&nbsp; – &nbsp;<strong>Carlos Castaneda</strong>
+</blockquote>
