@@ -50,6 +50,16 @@
 </p>
 
 <h1>&nbsp;</h1>
+<br />
+<div  align="center">
+    <h3 align="center"><a href="#">albena.kostov@gmail.com</a></h3>
+    <br />
+    <a href="https://linkedin.com/in/albenakostova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albenakostova" height="30" width="40" />
+    </a>
+</div>
+
+
+<h1>&nbsp;</h1>
 
 <br />
 <p align="center">     
@@ -61,15 +71,6 @@
 <div  align="center" id="badges">
     <img src="https://komarev.com/ghpvc/?username=malykdim&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>&nbsp;</h1>
-<br />
-<div  align="center">
-    <h3 align="center"><a href="#">albena.kostov@gmail.com</a></h3>
-    <br />
-    <a href="https://linkedin.com/in/albenakostova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albenakostova" height="30" width="40" />
-    </a>
-</div>
-<div  align="center">
 
-<h1>&nbsp;</h1>
+
 
