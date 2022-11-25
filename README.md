@@ -73,11 +73,3 @@
 
 <h1>&nbsp;</h1>
 
-<h3>Currently working on: </h3
-<p align="center">
-<br>
-<code>building my Portfolio</code>
-&nbsp;
-<code>learning the MERN stack</code> 
-</p>
-<h1>&nbsp;</h1>
