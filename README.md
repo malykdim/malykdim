@@ -1,10 +1,7 @@
 <h3 align="center">Albena Kostova</h3>
 <h1 align="center">JS Web Developer</h1>
-
-<!--
-<h3 align="center">Languages and Tools:</h3>
--->
 <br />
+
 <br />
 <p align="center"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -50,16 +47,6 @@
 </p>
 
 <h1>&nbsp;</h1>
-<br />
-<div  align="center">
-    <h3 align="center"><a href="#">albena.kostov@gmail.com</a></h3>
-    <br />
-    <a href="https://linkedin.com/in/albenakostova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albenakostova" height="30" width="40" />
-    </a>
-</div>
-
-
-<h1>&nbsp;</h1>
 
 <br />
 <p align="center">     
@@ -72,5 +59,6 @@
     <img src="https://komarev.com/ghpvc/?username=malykdim&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-
+<h2 align="center">
+    <a href="https://linkedin.com/in/albenakostova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albenakostova" height="30" width="30" /></a>
+</h2>    
